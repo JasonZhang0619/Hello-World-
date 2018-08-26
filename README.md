@@ -1,2 +1,4 @@
 # Hello-World-
 guide
+
+THIS IS MY FIRST TIME USING GITHUB, EXCITED ;)
